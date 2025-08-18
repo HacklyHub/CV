@@ -1,6 +1,6 @@
 # 📄 CV – Ingénieur Réseaux & Sécurité
 
-📍 [Ville] &nbsp;&nbsp; ✉ [Email] &nbsp;&nbsp; ☎ [Téléphone] &nbsp;&nbsp; 🔗 [LinkedIn]  
+✉ [Email] ing.kensly@gmail.com; ☎ [Téléphone] &nbsp;&nbsp; 🔗 [LinkedIn]  
 
 ---
 
