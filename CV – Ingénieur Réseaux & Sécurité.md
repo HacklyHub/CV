@@ -1,6 +1,8 @@
+# 👤 KKensly PIERRE
 # 📄 CV – Ingénieur Réseaux & Sécurité
 
-✉ [Email] ing.kensly@gmail.com; ☎ [Téléphone] +33 6 44 79 00 07; 🔗 [LinkedIn] (https://www.linkedin.com/in/ing-kensly-pierre-ssi/)
+✉ [Email] ing.kensly@gmail.com; ☎ [Téléphone] +33 6 44 79 00 07; 
+🔗 [LinkedIn] (https://www.linkedin.com/in/ing-kensly-pierre-ssi/)
 
 ---
 
