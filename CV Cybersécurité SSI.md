@@ -1,8 +1,8 @@
 # 👤 Kensly PIERRE
 # 📄 CV – Ingénieur Cybersécurité
 
-✉ [Email] ing.kensly@gmail.com| 📞  +33 6 44 79 00 07; 
-🔗 [LinkedIn] (https://www.linkedin.com/in/ing-kensly-pierre-ssi/)
+✉ [Email] ing.kensly@gmail.com | 📞  +33 6 44 79 00 07 |
+🔗 [LinkedIn] (https://www.linkedin.com/in/ing-kensly-pierre-ssi/) |
 🔗 GitHub  (https://github.com/HacklyHub/Ing_Cyber)
 
 ---
